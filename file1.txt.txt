@@ -3,3 +3,5 @@ Add second commit in master
 Add first commit in bug123
 Add second commit in bug123
 Master is ultimate
+
+changes
