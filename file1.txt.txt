@@ -1,1 +1,2 @@
 Add first commit in master
+Add second commit in master
