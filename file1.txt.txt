@@ -2,5 +2,4 @@ Add first commit in master
 Add second commit in master
 Add first commit in bug123
 Add second commit in bug123
-Add third commit in master
-Add fourth commit in master
+Master is ultimate
